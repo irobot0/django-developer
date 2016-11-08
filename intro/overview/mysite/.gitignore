@@ -1,0 +1,8 @@
+# Database files
+/mysite/database/
+
+﻿# Project-level static files:
+/mysite/static/
+
+# Project-level media files:
+/mysite/media/
